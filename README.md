@@ -1,3 +1,2 @@
 # pradar302.github.io
-
-This is a test
+Mini Assignment 8
