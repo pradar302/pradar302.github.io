@@ -1,2 +1,2 @@
 # pradar302.github.io
-Mini Assignment 8
+This is a twine story that leads the audience into Henry Tudor's life. As Henry Tudor's life branches into multiple stages of life, readers can freely explore different stages of Henry Tudor's life. It also includes context of characters surrounding Henry Tudor's life, such as Henry VIII, King Richard, Elizabeth of York, etc. Readers will be able to educate themselves on crucial events during the Tudor era.
